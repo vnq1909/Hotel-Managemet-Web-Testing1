@@ -3,7 +3,7 @@
 Repository này chứa các test case tự động cho hệ thống quản lý khách sạn sử dụng Selenium WebDriver và Selenium IDE.
 
 ## 🚀 Cài đặt và chạy
-
+Link Web: https://github.com/2909hmhung/Quan-ly-khach-san-MH
 
 ### Chạy test bằng Selenium IDE:
 1. Cài đặt Selenium IDE extension cho Chrome
